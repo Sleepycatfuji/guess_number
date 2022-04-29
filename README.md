@@ -13,9 +13,10 @@ It can install any package or software you want and even install specific versio
 Quick guide: Run the following command in your terminal:
 
 `/bin/bash -c "$(curl -fsSL <https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh>)"`
-Installing PHP with Homebrew on Macpermalink
-To install PHP, we can run the following command:
 
+Installing PHP with Homebrew on Macpermalink
+
+To install PHP, we can run the following command:
 `brew install php`
 This will install the latest stable version of PHP (At the moment of writing, this is PHP 8.0).
 
